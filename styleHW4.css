@@ -1,0 +1,308 @@
+html {
+  background: white;
+}
+body {
+
+}
+h1 {
+  text-align: center;
+}
+
+#containerMain {
+}
+
+.ShirtBox1 {
+  display: inline-block;
+  padding-right: 20px;
+
+
+
+}
+.flip1 {
+  display: inline-block;
+  padding: 3px;
+  color: #ADD8E6;
+  border: 2px solid blue;
+  position: absolute;
+      bottom: 399px;
+      left: 353px;
+}
+.flip1:hover {
+  background-color: blue;
+}
+ .arrow1 {
+  border: 2px solid blue;
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+  color: #ADD8E6;
+}
+.arrow1:hover {
+  background-color: blue;
+}
+ .heart1 {
+   border: 2px solid blue;
+   display: inline-block;
+   flex-grow: 1;
+   text-align: center;
+   color: #ADD8E6;
+ }
+ .heart1:hover {
+   background-color: blue;
+ }
+  .XL1 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .XL1:hover {
+    background-color: blue;
+  }
+  .BlueBox1 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .BlueBox1:hover {
+    background-color: blue;
+  }
+  .Cart1 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+    padding: 10px;
+  }
+  .Cart1:hover {
+    background-color: blue;
+  }
+  .Money1 {
+    display: inline-block;
+    display: flex;
+    flex-grow: 1;
+    color: #ADD8E6;
+  }
+  strong {
+    color: #6666ff;
+  }
+  p.Cost1 {
+    position: relative;
+    left: 245px;
+  }
+
+  p {
+    display: inline;
+}
+
+.menu1 {
+display: flex;
+position: relative;
+    bottom: 4px;
+}
+
+
+
+
+
+.ShirtBox2 {
+  display: inline-block;
+  padding-right: 20px
+
+
+
+}
+.flip2 {
+  display: inline-block;
+  padding: 3px;
+  color: #ADD8E6;
+  border: 2px solid blue;
+  position: absolute;
+      bottom: 399px;
+      left: 741px;
+}
+.flip2:hover {
+  background-color: blue;
+}
+ .arrow2 {
+  border: 2px solid blue;
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+  color: #ADD8E6;
+}
+.arrow2:hover {
+  background-color: blue;
+}
+ .heart2 {
+   border: 2px solid blue;
+   display: inline-block;
+   flex-grow: 1;
+   text-align: center;
+   color: #ADD8E6;
+ }
+ .heart2:hover {
+   background-color: blue;
+ }
+  .XL2 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .XL2:hover {
+    background-color: blue;
+  }
+  .BlueBox2 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .BlueBox2:hover {
+    background-color: blue;
+  }
+  .Cart2 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+    padding: 10px;
+  }
+  .Cart2:hover {
+    background-color: blue;
+  }
+  .Money2 {
+    display: inline-block;
+    display: flex;
+    flex-grow: 1;
+    color: #ADD8E6;
+  }
+  strong {
+    color: #6666ff;
+  }
+  p.Cost2 {
+    position: relative;
+    left: 250px;
+  }
+
+  p {
+    display: inline;
+}
+
+.menu2 {
+display: flex;
+position: relative;
+    bottom: 4px;
+}
+
+
+.ShirtBox3 {
+  display: inline-block;
+
+
+
+}
+.flip3 {
+  display: inline-block;
+  padding: 3px;
+  color: #ADD8E6;
+  border: 2px solid blue;
+  position: absolute;
+      bottom: 399px;
+      left: 1129px;
+}
+.flip3:hover {
+  background-color: blue;
+}
+ .arrow3 {
+  border: 2px solid blue;
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+  color: #ADD8E6;
+}
+.arrow3:hover {
+  background-color: blue;
+}
+ .heart3 {
+   border: 2px solid blue;
+   display: inline-block;
+   flex-grow: 1;
+   text-align: center;
+   color: #ADD8E6;
+ }
+ .heart3:hover {
+   background-color: blue;
+ }
+  .XL3 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .XL3:hover {
+    background-color: blue;
+  }
+  .BlueBox3 {
+    border: 2px solid blue;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .BlueBox3:hover {
+    background-color: blue;
+  }
+  .Cart3 {
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+    padding: 10px;
+
+  }
+  .Cart3:hover {
+    background-color: #ADD8E6;
+  }
+  .Money3 {
+    display: inline-block;
+    display: flex;
+    flex-grow: 1;
+    color: #ADD8E6;
+  }
+  strong {
+    color: #6666ff;
+  }
+  p.Cost3 {
+    position: relative;
+    left: 250px;
+  }
+
+  p {
+    display: inline;
+}
+
+.menu3 {
+display: flex;
+position: relative;
+    bottom: 4px;
+}
+
+button {
+  background-color: white;
+  cursor: pointer;
+}
+button:active {
+  box-shadow: none;
+
+}
