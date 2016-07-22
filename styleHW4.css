@@ -22,56 +22,64 @@ h1 {
   display: inline-block;
   padding: 3px;
   color: #ADD8E6;
-  border: 2px solid blue;
+  border: 2px solid #ADD8E6;
   position: absolute;
-      bottom: 399px;
-      left: 353px;
+  bottom: 392px;
+  left: 345px;
 }
 .flip1:hover {
-  background-color: blue;
+  background-color: #ADD8E6;
+  color: white;
 }
  .arrow1 {
-  border: 2px solid blue;
+  border: 2px solid #ADD8E6;
   display: inline-block;
   flex-grow: 1;
   text-align: center;
   color: #ADD8E6;
 }
 .arrow1:hover {
-  background-color: blue;
+  background-color: #ADD8E6;
+  color: white;
 }
  .heart1 {
-   border: 2px solid blue;
+   border: 2px solid #ADD8E6;
    display: inline-block;
    flex-grow: 1;
    text-align: center;
    color: #ADD8E6;
  }
  .heart1:hover {
-   background-color: blue;
+   background-color: #ADD8E6;
+   color: white;
  }
   .XL1 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
     color: #ADD8E6;
   }
   .XL1:hover {
-    background-color: blue;
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .XL:hover:active {
+    box-shadow: 0 5px 0 #ff0000;
   }
   .BlueBox1 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
     color: #ADD8E6;
   }
   .BlueBox1:hover {
-    background-color: blue;
+    background-color: #ADD8E6;
+    color: white;
   }
   .Cart1 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
@@ -79,7 +87,8 @@ h1 {
     padding: 10px;
   }
   .Cart1:hover {
-    background-color: blue;
+    background-color: #ADD8E6;
+    color: white;
   }
   .Money1 {
     display: inline-block;
@@ -88,7 +97,7 @@ h1 {
     color: #ADD8E6;
   }
   strong {
-    color: #6666ff;
+    color: #6699ff;
   }
   p.Cost1 {
     position: relative;
@@ -120,56 +129,61 @@ position: relative;
   display: inline-block;
   padding: 3px;
   color: #ADD8E6;
-  border: 2px solid blue;
+  border: 2px solid #ADD8E6;
   position: absolute;
-      bottom: 399px;
-      left: 741px;
+  bottom: 392px;
+  left: 733px;
 }
 .flip2:hover {
-  background-color: blue;
+  background-color: #ADD8E6;
+  color: white;
 }
  .arrow2 {
-  border: 2px solid blue;
+  border: 2px solid #ADD8E6;
   display: inline-block;
   flex-grow: 1;
   text-align: center;
   color: #ADD8E6;
 }
 .arrow2:hover {
-  background-color: blue;
+  background-color: #ADD8E6;
+  color: white;
 }
  .heart2 {
-   border: 2px solid blue;
+   border: 2px solid #ADD8E6;
    display: inline-block;
    flex-grow: 1;
    text-align: center;
    color: #ADD8E6;
  }
  .heart2:hover {
-   background-color: blue;
+   background-color: #ADD8E6;
+   color: white;
  }
   .XL2 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
     color: #ADD8E6;
   }
   .XL2:hover {
-    background-color: blue;
+    background-color: #ADD8E6;
+    color: white;
   }
   .BlueBox2 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
-    color: #ADD8E6;
+    color: #ff80bf;
   }
   .BlueBox2:hover {
-    background-color: blue;
+    background-color: #ADD8E6;
+    color: #ff80bf;
   }
   .Cart2 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
@@ -177,7 +191,8 @@ position: relative;
     padding: 10px;
   }
   .Cart2:hover {
-    background-color: blue;
+    background-color: #ADD8E6;
+    color: white;
   }
   .Money2 {
     display: inline-block;
@@ -214,53 +229,59 @@ position: relative;
   display: inline-block;
   padding: 3px;
   color: #ADD8E6;
-  border: 2px solid blue;
+  border: 2px solid #ADD8E6;
   position: absolute;
-      bottom: 399px;
-      left: 1129px;
+  bottom: 392px;
+  left: 1121px;
 }
 .flip3:hover {
-  background-color: blue;
+  background-color: #ADD8E6;
+  color: white;
 }
  .arrow3 {
-  border: 2px solid blue;
+  border: 2px solid #ADD8E6;
   display: inline-block;
   flex-grow: 1;
   text-align: center;
   color: #ADD8E6;
 }
 .arrow3:hover {
-  background-color: blue;
+  background-color: #ADD8E6;
+  color: white;
 }
  .heart3 {
-   border: 2px solid blue;
+   border: 2px solid #ADD8E6;
    display: inline-block;
    flex-grow: 1;
    text-align: center;
    color: #ADD8E6;
  }
  .heart3:hover {
-   background-color: blue;
+   background-color: #ADD8E6;
+   color: white
  }
   .XL3 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
     color: #ADD8E6;
+    font-size; 20;
   }
   .XL3:hover {
-    background-color: blue;
+    background-color: #ADD8E6;
+    color: white;
   }
   .BlueBox3 {
-    border: 2px solid blue;
+    border: 2px solid #ADD8E6;
     display: inline-block;
     flex-grow: 1;
     text-align: center;
-    color: #ADD8E6;
+    color: #ffaa80;
   }
   .BlueBox3:hover {
-    background-color: blue;
+    color: #ffaa80;
+    background-color: #ADD8E6
   }
   .Cart3 {
     border: 2px solid #ADD8E6;
@@ -273,6 +294,7 @@ position: relative;
   }
   .Cart3:hover {
     background-color: #ADD8E6;
+    color: white;
   }
   .Money3 {
     display: inline-block;
@@ -304,5 +326,7 @@ button {
 }
 button:active {
   box-shadow: none;
+
+
 
 }
