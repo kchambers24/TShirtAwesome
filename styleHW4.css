@@ -2,21 +2,15 @@ html {
   background: white;
 }
 body {
-
 }
 h1 {
-  text-align: center;
+  color: lightblue;
 }
-
 #containerMain {
 }
-
 .ShirtBox1 {
   display: inline-block;
   padding-right: 20px;
-
-
-
 }
 .flip1 {
   display: inline-block;
@@ -64,9 +58,7 @@ h1 {
   .XL1:hover {
     background-color: #ADD8E6;
     color: white;
-
   }
-
   .BlueBox1 {
     width: 35px;
     border: 2px solid #ADD8E6;
@@ -104,28 +96,18 @@ h1 {
     position: relative;
     left: 245px;
   }
-
   p {
     display: inline;
 }
-
 .menu1 {
 height: 55px;
 display: flex;
 position: relative;
     bottom: 4px;
 }
-
-
-
-
-
 .ShirtBox2 {
   display: inline-block;
   padding-right: 20px
-
-
-
 }
 .flip2 {
   display: inline-block;
@@ -174,7 +156,6 @@ position: relative;
     background-color: #ADD8E6;
     color: white;
   }
-
   .BlueBox2 {
     width: 35px;
     border: 2px solid #ADD8E6;
@@ -212,24 +193,17 @@ position: relative;
     position: relative;
     left: 250px;
   }
-
   p {
     display: inline;
 }
-
 .menu2 {
 height: 55px;
 display: flex;
 position: relative;
     bottom: 4px;
 }
-
-
 .ShirtBox3 {
   display: inline-block;
-
-
-
 }
 .flip3 {
   display: inline-block;
@@ -293,7 +267,6 @@ position: relative;
   }
 .ColorBox1 {
   opacity: 0;
-
 }
 button:hover .ColorBox1{
   opacity: 1;
@@ -306,7 +279,6 @@ button:hover .ColorBox1{
     text-align: center;
     color: #ADD8E6;
     padding: 10px;
-
   }
   .Cart3:hover {
     background-color: #ADD8E6;
@@ -325,18 +297,15 @@ button:hover .ColorBox1{
     position: relative;
     left: 250px;
   }
-
   p {
     display: inline;
 }
-
 .menu3 {
 height: 55px;
 display: flex;
 position: relative;
     bottom: 4px;
 }
-
 button {
   background-color: white;
   cursor: pointer;
@@ -349,25 +318,18 @@ button:active ul li {
 button:active .arrow_boxT {
   transform: translateY(17px);
 }
-
-
-
 ul {
   list-style-type: none;
   padding: 0;
   margin: 0;
-
 }
 ul li {
   opacity: 0;
-
 }
 button:hover ul li{
   opacity: 1;
   background-color: white;
   border-radius 5px;
-
-
 }
 .Logo1{
   border: none;
@@ -380,8 +342,6 @@ button:hover ul li{
   left 3px;
   background-color: white;
   opacity: 0;
-
-
 }
 .ColumnLeft1 {
 
@@ -431,7 +391,6 @@ button:active .arrow_box {
 	position: absolute;
 	pointer-events: none;
 }
-
 .arrow_box:after {
 	border-color: rgba(255, 255, 255, 0);
 	border-top-color: #ffffff;
@@ -468,7 +427,6 @@ button:hover .arrow_box {
 	position: absolute;
 	pointer-events: none;
 }
-
 .arrow_boxT:after {
 	border-color: rgba(255, 255, 255, 0);
 	border-top-color: #ffffff;
@@ -486,7 +444,7 @@ button:hover .arrow_boxT {
 }
 .T_3 {
   position: relative;
-  left: 10px;
+  left: 11px;
   display: flex;
 }
 .TSizes {
