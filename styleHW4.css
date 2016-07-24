@@ -24,7 +24,7 @@ h1 {
   color: #ADD8E6;
   border: 2px solid #ADD8E6;
   position: absolute;
-  bottom: 342px;
+  bottom: 339px;
   left: 345px;
 }
 .flip1:hover {
@@ -133,7 +133,7 @@ position: relative;
   color: #ADD8E6;
   border: 2px solid #ADD8E6;
   position: absolute;
-  bottom: 342px;
+  bottom: 339px;
   left: 733px;
 }
 .flip2:hover {
@@ -237,7 +237,7 @@ position: relative;
   color: #ADD8E6;
   border: 2px solid #ADD8E6;
   position: absolute;
-  bottom: 342px;
+  bottom: 339px;
   left: 1121px;
 }
 .flip3:hover {
@@ -483,4 +483,16 @@ button:hover .arrow_box {
 }
 button:hover .arrow_boxT {
   opacity: 1;
+}
+.T_3 {
+  position: relative;
+  left: 10px;
+  display: flex;
+}
+.TSizes {
+  color: lightblue;
+  width: 9px;
+  position: relative;
+  right: 18px;
+  top: 8px
 }
