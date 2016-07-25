@@ -1,0 +1,458 @@
+html {
+  background: white;
+}
+body {
+}
+h1 {
+  color: lightblue;
+}
+#containerMain {
+}
+.ShirtBox1 {
+  display: inline-block;
+  position: relative;
+}
+.flip1 {
+  display: inline-block;
+  padding: 3px;
+  color: #ADD8E6;
+  border: 2px solid #ADD8E6;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.flip1:hover {
+  background-color: #ADD8E6;
+  color: white;
+}
+ .arrow1 {
+  border: 2px solid #ADD8E6;
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+  color: #ADD8E6;
+}
+.arrow1:hover {
+  background-color: #ADD8E6;
+  color: white;
+}
+ .heart1 {
+   border: 2px solid #ADD8E6;
+   display: inline-block;
+   flex-grow: 1;
+   text-align: center;
+   color: #ADD8E6;
+ }
+ .heart1:hover {
+   background-color: #ADD8E6;
+   color: white;
+ }
+  .XL1 {
+    width: 35px;
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .XL1:hover {
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .BlueBox1 {
+    width: 35px;
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .BlueBox1:hover {
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .Cart1 {
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+    padding: 10px;
+  }
+  .Cart1:hover {
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .Money1 {
+    display: inline-block;
+    display: flex;
+    flex-grow: 1;
+    color: #ADD8E6;
+  }
+  strong {
+    color: #6699ff;
+  }
+  p.Cost1 {
+    position: relative;
+    left: 245px;
+  }
+  p {
+    display: inline;
+}
+.menu1 {
+height: 55px;
+display: flex;
+position: relative;
+    bottom: 4px;
+}
+.ShirtBox2 {
+  display: inline-block;
+  position: relative;
+}
+.flip2 {
+  display: inline-block;
+  padding: 3px;
+  color: #ADD8E6;
+  border: 2px solid #ADD8E6;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.flip2:hover {
+  background-color: #ADD8E6;
+  color: white;
+}
+ .arrow2 {
+  border: 2px solid #ADD8E6;
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+  color: #ADD8E6;
+}
+.arrow2:hover {
+  background-color: #ADD8E6;
+  color: white;
+}
+ .heart2 {
+   border: 2px solid #ADD8E6;
+   display: inline-block;
+   flex-grow: 1;
+   text-align: center;
+   color: #ADD8E6;
+ }
+ .heart2:hover {
+   background-color: #ADD8E6;
+   color: white;
+ }
+  .XL2 {
+    width: 35px;
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+  }
+  .XL2:hover {
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .BlueBox2 {
+    width: 35px;
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ff80bf;
+  }
+  .BlueBox2:hover {
+    background-color: #ADD8E6;
+    color: #ff80bf;
+  }
+  .Cart2 {
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+    padding: 10px;
+  }
+  .Cart2:hover {
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .Money2 {
+    display: inline-block;
+    display: flex;
+    flex-grow: 1;
+    color: #ADD8E6;
+  }
+  strong {
+    color: #6666ff;
+  }
+  p.Cost2 {
+    position: relative;
+    left: 250px;
+  }
+  p {
+    display: inline;
+}
+.menu2 {
+height: 55px;
+display: flex;
+position: relative;
+    bottom: 4px;
+}
+.ShirtBox3 {
+  display: inline-block;
+  position: relative;
+}
+.flip3 {
+  display: inline-block;
+  padding: 3px;
+  color: #ADD8E6;
+  border: 2px solid #ADD8E6;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.flip3:hover {
+  background-color: #ADD8E6;
+  color: white;
+}
+ .arrow3 {
+  border: 2px solid #ADD8E6;
+  display: inline-block;
+  flex-grow: 1;
+  text-align: center;
+  color: #ADD8E6;
+}
+.arrow3:hover {
+  background-color: #ADD8E6;
+  color: white;
+}
+ .heart3 {
+   border: 2px solid #ADD8E6;
+   display: inline-block;
+   flex-grow: 1;
+   text-align: center;
+   color: #ADD8E6;
+ }
+ .heart3:hover {
+   background-color: #ADD8E6;
+   color: white
+ }
+  .XL3 {
+    width: 35px;
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+    font-size; 20;
+  }
+  .XL3:hover {
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .BlueBox3 {
+    width: 35px;
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ffaa80;
+  }
+  .BlueBox3:hover {
+    color: #ffaa80;
+    background-color: #ADD8E6
+  }
+.ColorBox1 {
+  opacity: 0;
+}
+button:hover .ColorBox1{
+  opacity: 1;
+  ;
+}
+  .Cart3 {
+    border: 2px solid #ADD8E6;
+    display: inline-block;
+    flex-grow: 1;
+    text-align: center;
+    color: #ADD8E6;
+    padding: 10px;
+  }
+  .Cart3:hover {
+    background-color: #ADD8E6;
+    color: white;
+  }
+  .Money3 {
+    display: inline-block;
+    display: flex;
+    flex-grow: 1;
+    color: #ADD8E6;
+  }
+  strong {
+    color: #6666ff;
+  }
+  p.Cost3 {
+    position: relative;
+    left: 250px;
+  }
+  p {
+    display: inline;
+}
+.menu3 {
+height: 55px;
+display: flex;
+position: relative;
+    bottom: 4px;
+}
+button {
+  background-color: white;
+  cursor: pointer;
+  outline: none;
+}
+button:active ul li {
+  box-shadow: none;
+  transform translateY(5px);
+}
+button:active .arrow_boxT {
+  transform: translateY(17px);
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+ul li {
+  opacity: 0;
+}
+button:hover ul li{
+  opacity: 1;
+  background-color: white;
+  border-radius 5px;
+}
+.Logo1{
+  border: none;
+}
+.ColorBox1 {
+  width: 44px;
+  border: 2px solid lightblue;
+  display: flex;
+  position: relative;
+  left 3px;
+  background-color: white;
+  opacity: 0;
+}
+.ColumnLeft1 {
+
+}
+.BlueSquare {
+  color: lightblue;
+  padding: 2px;
+}
+.OrangeSquare {
+  color: orange;
+  padding: 2px;
+}
+.ColumnRight1 {
+
+}
+.PinkSquare {
+  color: lightpink;
+  padding: 2px;
+}
+.GreenSquare {
+  color: lightgreen;
+  padding: 2px;
+}
+buttonactive ColorBox1 {
+  transform: translateY(1px);
+}
+button:active .arrow_box {
+  transform: translateY(17px);
+}
+.arrow_box {
+  width: 48px;
+  height: 50px;
+	position: relative;
+  bottom: 92px;
+  left: 2px;
+	background color: #ffffff;
+	border: 2px solid #c2e1f5;
+  opacity: 0;
+}
+.arrow_box:after, .arrow_box:before {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+.arrow_box:after {
+	border-color: rgba(255, 255, 255, 0);
+	border-top-color: #ffffff;
+	border-width: 10px;
+	margin-left: -10px;
+}
+.arrow_box:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-top-color: #c2e1f5;
+	border-width: 16px;
+	margin-left: -16px;
+}
+button:hover .arrow_box {
+  opacity: 1;
+}
+.arrow_boxT {
+  width: 48px;
+  height: 100px;
+  position: relative;
+  bottom: 170px;
+  left: 1px;
+	background color: #ffffff;
+	border: 4px solid #c2e1f5;
+  opacity: 0;
+  background-color: white;
+}
+.arrow_boxT:after, .arrow_boxT:before {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+.arrow_boxT:after {
+	border-color: rgba(255, 255, 255, 0);
+	border-top-color: #ffffff;
+	border-width: 10px;
+	margin-left: -10px;
+}
+.arrow_boxT:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-top-color: #c2e1f5;
+	border-width: 16px;
+	margin-left: -16px;
+}
+button:hover .arrow_boxT {
+  opacity: 1;
+}
+.T_3 {
+  position: relative;
+  left: 11px;
+  display: flex;
+}
+.TSizes {
+  color: lightblue;
+  width: 9px;
+  position: relative;
+  right: 18px;
+  top: 8px
+}
+.TSizes:nth-child(an+b)
