@@ -10,7 +10,7 @@ h1 {
 }
 .ShirtBox1 {
   display: inline-block;
-  padding-right: 20px;
+  position: relative;
 }
 .flip1 {
   display: inline-block;
@@ -18,8 +18,8 @@ h1 {
   color: #ADD8E6;
   border: 2px solid #ADD8E6;
   position: absolute;
-  bottom: 339px;
-  left: 345px;
+  top: 0;
+  right: 0;
 }
 .flip1:hover {
   background-color: #ADD8E6;
@@ -107,7 +107,7 @@ position: relative;
 }
 .ShirtBox2 {
   display: inline-block;
-  padding-right: 20px
+  position: relative;
 }
 .flip2 {
   display: inline-block;
@@ -115,8 +115,8 @@ position: relative;
   color: #ADD8E6;
   border: 2px solid #ADD8E6;
   position: absolute;
-  bottom: 339px;
-  left: 733px;
+  top: 0;
+  right: 0;
 }
 .flip2:hover {
   background-color: #ADD8E6;
@@ -204,6 +204,7 @@ position: relative;
 }
 .ShirtBox3 {
   display: inline-block;
+  position: relative;
 }
 .flip3 {
   display: inline-block;
@@ -211,8 +212,8 @@ position: relative;
   color: #ADD8E6;
   border: 2px solid #ADD8E6;
   position: absolute;
-  bottom: 339px;
-  left: 1121px;
+  top: 0;
+  right: 0;
 }
 .flip3:hover {
   background-color: #ADD8E6;
