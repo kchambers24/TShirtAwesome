@@ -205,7 +205,39 @@
           <p class="Save3">Forrest Walk</p>
           <p class="Cost3"><strong>$39</strong></p>
         </div>
+
           </div>
         </div>
 </div>
+<br>
+<div class="cartBox">
+  <p>Cart Items</p>
+    <ul class="cartItems">
+      <li></li>
+    </ul>
+</div>
+<script>
+//Objects
+var shirtOne = {item: "Save my trees", price: "$29"};
+var shirtTwo = {item: "Nature Lover", price: "$19"};
+var shirtThree = {item: "Forrest Walk", price: "$39"};
+
+var arrayCart = [];
+
+
+//var form = document.querySelector("Nav3container");
+
+ var buttonThree= document.querySelector(".Cart3");
+  buttonThree.addEventListener("click", function(event){
+   var list = document.querySelector(".cartItems");
+   var listItem = document.createElement("li");
+  listItem.innerText = item.price;
+  list.appendChild(listItem);
+})
+
+
+
+
+</script>
+
 </body></html>
